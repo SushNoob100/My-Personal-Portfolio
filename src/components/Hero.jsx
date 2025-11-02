@@ -13,6 +13,7 @@ function Hero() {
       <div className="container">
         <div className="hero-content">
           <img src="/profile.jpg" alt="SushNoob100" className="hero-photo" />
+          {/* Profile image for portfolio */}
           <h1 className="hero-title">
             Hi, I'm <span className="highlight">SushNoob100</span> 👋
           </h1>
